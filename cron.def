@@ -1,0 +1,15 @@
+###############################################################################
+## ISCTE-IUL: Trabalho prático de Sistemas Operativos 2022/2023
+##
+## Aluno: Nº: 110993    Nome: Andre Simoes Soares
+## Nome do Módulo: cron.def
+## Descrição/Explicação do Módulo:
+##
+##
+## Explicação de quais os comandos a usar para configurar o seu sistema Linux
+## usando este ficheiro:
+## ir ao terminal inserir o "crontab -e" e depois escolher o vim (editor) (a minha opcao) e introduzir la este comando :
+## 17 9 * * 4 cd /home/a110993/parte-1 ./refill.sh
+###############################################################################
+
+17 9 * * 4 cd /home/a110993/parte-1 ./refill.sh
